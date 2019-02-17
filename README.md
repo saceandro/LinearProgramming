@@ -1,0 +1,3 @@
+# LinearProgramming
+
+Simplex algorithm implementation.
